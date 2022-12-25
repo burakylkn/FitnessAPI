@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rj1oPLkvutbQbTyA8GiaQAFVlUbLwT0N6FWO//Qb4F0aKMELqcad8UiD0+XfjFKSpxwBIO7+P+Epd5uvsOTIbA==",
+  "success": true,
+  "projectFilePath": "D:\\workShop\\FitnessWorkout\\Fitness.Data\\Fitness.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BurakYELKEN\\.nuget\\packages\\fastmember\\1.5.0\\fastmember.1.5.0.nupkg.sha512",
+    "C:\\Users\\BurakYELKEN\\.nuget\\packages\\mysqlconnector\\2.2.4\\mysqlconnector.2.2.4.nupkg.sha512",
+    "C:\\Users\\BurakYELKEN\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\BurakYELKEN\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\BurakYELKEN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

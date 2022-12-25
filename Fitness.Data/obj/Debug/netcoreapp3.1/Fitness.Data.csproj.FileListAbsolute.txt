@@ -1,0 +1,13 @@
+D:\workShop\FitnessWorkout\Fitness.Data\bin\Debug\netcoreapp3.1\Fitness.Data.deps.json
+D:\workShop\FitnessWorkout\Fitness.Data\bin\Debug\netcoreapp3.1\Fitness.Data.dll
+D:\workShop\FitnessWorkout\Fitness.Data\bin\Debug\netcoreapp3.1\Fitness.Data.pdb
+D:\workShop\FitnessWorkout\Fitness.Data\bin\Debug\netcoreapp3.1\Fitness.Common.dll
+D:\workShop\FitnessWorkout\Fitness.Data\bin\Debug\netcoreapp3.1\Fitness.Common.pdb
+D:\workShop\FitnessWorkout\Fitness.Data\obj\Debug\netcoreapp3.1\Fitness.Data.csproj.AssemblyReference.cache
+D:\workShop\FitnessWorkout\Fitness.Data\obj\Debug\netcoreapp3.1\Fitness.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\workShop\FitnessWorkout\Fitness.Data\obj\Debug\netcoreapp3.1\Fitness.Data.AssemblyInfoInputs.cache
+D:\workShop\FitnessWorkout\Fitness.Data\obj\Debug\netcoreapp3.1\Fitness.Data.AssemblyInfo.cs
+D:\workShop\FitnessWorkout\Fitness.Data\obj\Debug\netcoreapp3.1\Fitness.Data.csproj.CoreCompileInputs.cache
+D:\workShop\FitnessWorkout\Fitness.Data\obj\Debug\netcoreapp3.1\Fitness.Data.csproj.CopyComplete
+D:\workShop\FitnessWorkout\Fitness.Data\obj\Debug\netcoreapp3.1\Fitness.Data.dll
+D:\workShop\FitnessWorkout\Fitness.Data\obj\Debug\netcoreapp3.1\Fitness.Data.pdb

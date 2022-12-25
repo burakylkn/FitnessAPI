@@ -1,0 +1,10 @@
+D:\workShop\FitnessWorkout\Fitness.Common\bin\Debug\netcoreapp3.1\Fitness.Common.deps.json
+D:\workShop\FitnessWorkout\Fitness.Common\bin\Debug\netcoreapp3.1\Fitness.Common.dll
+D:\workShop\FitnessWorkout\Fitness.Common\bin\Debug\netcoreapp3.1\Fitness.Common.pdb
+D:\workShop\FitnessWorkout\Fitness.Common\obj\Debug\netcoreapp3.1\Fitness.Common.csproj.AssemblyReference.cache
+D:\workShop\FitnessWorkout\Fitness.Common\obj\Debug\netcoreapp3.1\Fitness.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\workShop\FitnessWorkout\Fitness.Common\obj\Debug\netcoreapp3.1\Fitness.Common.AssemblyInfoInputs.cache
+D:\workShop\FitnessWorkout\Fitness.Common\obj\Debug\netcoreapp3.1\Fitness.Common.AssemblyInfo.cs
+D:\workShop\FitnessWorkout\Fitness.Common\obj\Debug\netcoreapp3.1\Fitness.Common.csproj.CoreCompileInputs.cache
+D:\workShop\FitnessWorkout\Fitness.Common\obj\Debug\netcoreapp3.1\Fitness.Common.dll
+D:\workShop\FitnessWorkout\Fitness.Common\obj\Debug\netcoreapp3.1\Fitness.Common.pdb

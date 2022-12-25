@@ -1,0 +1,17 @@
+D:\workShop\FitnessWorkout\Fitness.Business\bin\Debug\netcoreapp3.1\Fitness.Business.deps.json
+D:\workShop\FitnessWorkout\Fitness.Business\bin\Debug\netcoreapp3.1\Fitness.Business.dll
+D:\workShop\FitnessWorkout\Fitness.Business\bin\Debug\netcoreapp3.1\Fitness.Business.pdb
+D:\workShop\FitnessWorkout\Fitness.Business\bin\Debug\netcoreapp3.1\Fitness.Common.dll
+D:\workShop\FitnessWorkout\Fitness.Business\bin\Debug\netcoreapp3.1\Fitness.Data.dll
+D:\workShop\FitnessWorkout\Fitness.Business\bin\Debug\netcoreapp3.1\Fitness.Common.pdb
+D:\workShop\FitnessWorkout\Fitness.Business\bin\Debug\netcoreapp3.1\Fitness.Data.pdb
+D:\workShop\FitnessWorkout\Fitness.Business\obj\Debug\netcoreapp3.1\Fitness.Business.csproj.AssemblyReference.cache
+D:\workShop\FitnessWorkout\Fitness.Business\obj\Debug\netcoreapp3.1\Fitness.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\workShop\FitnessWorkout\Fitness.Business\obj\Debug\netcoreapp3.1\Fitness.Business.AssemblyInfoInputs.cache
+D:\workShop\FitnessWorkout\Fitness.Business\obj\Debug\netcoreapp3.1\Fitness.Business.AssemblyInfo.cs
+D:\workShop\FitnessWorkout\Fitness.Business\obj\Debug\netcoreapp3.1\Fitness.Business.csproj.CoreCompileInputs.cache
+D:\workShop\FitnessWorkout\Fitness.Business\obj\Debug\netcoreapp3.1\Fitness.Business.csproj.CopyComplete
+D:\workShop\FitnessWorkout\Fitness.Business\obj\Debug\netcoreapp3.1\Fitness.Business.dll
+D:\workShop\FitnessWorkout\Fitness.Business\obj\Debug\netcoreapp3.1\Fitness.Business.pdb
+D:\workShop\FitnessWorkout\Fitness.Business\bin\Debug\netcoreapp3.1\Fitness.Entities.dll
+D:\workShop\FitnessWorkout\Fitness.Business\bin\Debug\netcoreapp3.1\Fitness.Entities.pdb
